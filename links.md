@@ -2,31 +2,31 @@
 
 ## LINKS
 **AFSTUDEERRICHTING**
-+++++
+5
 
-++++
-***https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/game-development 
-*Game Development (afstudeerrichting)
-+++
-***https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/game-graphics-production
-*Game Graphics Production (afstudeerrichting)
+4
+[Game Development (afstudeerrichting)](https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/game-development)
 
-++
+3
+[Game Graphics Production (afstudeerrichting)](https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/game-graphics-production)
 
-+
+2
+
+1
 
 **KEUZETRAJECTEN**
-+++++
+5
+/
+4
+[AI Engineer](https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/ai-engineer)
 
-++++
-***[AI Engineer](https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/ai-engineer)
-+++
-***https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/iot-infrastructure-engineer
-*IoT Infrastructure Engineer (keuzetraject)
-++
-***https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/3D-animation
-*3D Animation (keuzetraject)
-+
+3
+[IoT Infrastructure Engineer (keuzetraject)](https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/iot-infrastructure-engineer)
+
+2
+[3D Animation (keuzetraject)](https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/3D-animation)
+
+1
 
 ### BESCHRIJVING
 **GAME DEVELOPMENT**
