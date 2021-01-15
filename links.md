@@ -1,6 +1,6 @@
-#HOWEST
+# HOWEST
 
-##LINKS
+## LINKS
 **AFSTUDEERRICHTING**
 
 *****
