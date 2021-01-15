@@ -2,6 +2,7 @@
 
 ## LINKS
 **AFSTUDEERRICHTING**
+
 5-
 
 4 [Game Development (afstudeerrichting)](https://www.howest.be/nl/opleidingen/bachelor/digital-arts-and-entertainment/game-development)
@@ -14,6 +15,7 @@
 1-
 
 **KEUZETRAJECTEN**
+
 5-
 
 4 [AI Engineer](https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/ai-engineer)
