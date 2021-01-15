@@ -19,8 +19,7 @@
 +++++
 
 ++++
-***https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/ai-engineer
-*AI Engineer (keuzetraject)
+***https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/ai-engineer - automatic!
 +++
 ***https://www.howest.be/nl/opleidingen/bachelor/multimedia-en-communicatietechnologie/iot-infrastructure-engineer
 *IoT Infrastructure Engineer (keuzetraject)
