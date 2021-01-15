@@ -27,9 +27,13 @@
 1-
 
 ### BESCHRIJVING
+
 **GAME DEVELOPMENT**
+
 ***Toekomstige jobopportuniteiten***
+
 3D programmer, level designer, console programmer, technical artist, gameplay programmer, tool developer, shader developer, asset implementer, ...
+
 ***activiteiten***
 ![GEMDEV](/images/GEMDEV.png)
 
