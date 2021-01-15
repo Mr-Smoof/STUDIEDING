@@ -27,7 +27,6 @@
 1-
 
 ### BESCHRIJVING
-
 **GAME DEVELOPMENT**
 
 ***Toekomstige jobopportuniteiten***
@@ -37,3 +36,43 @@
 ***activiteiten***
 ![GEMDEV](/images/GEMDEV.png)
 
+# HOGENT
+
+## LINKS
+**RICHTINGEN**
+
+5-
+
+4-
+
+3 [Financie- en verzekeringswezen](https://www.hogent.be/opleidingen/bachelors/bedrijfsmanagement/financie-en-verzekeringswezen/)
+
+2-
+
+1-
+
+### BESCHRIJVING
+**Financie- en verzekeringswezen**
+
+***WAT NA HET DIPLOMA (met doorstroom mogelijkheden)***
+
+*Enkele voorbeelden van beroepsmogelijkheden:*
+
+*adviseur kredieten, beleggingen en/of immobiliën*
+
+*junior accountmanager*
+
+*junior filiaalhouder*
+
+*schadebeheerder*
+
+*verzekeringsagent of verzekeringsmakelaar*
+
+*medewerker in een agentschap of makelaarskantoor*
+
+**OF**
+
+*een postgraduaat verzekeringen (voor wie zich verder wil verdiepen in risk management en claims management)*
+*een bachelor-na-bachelor toegepaste fiscaliteit (voor wie zich verder wil verdiepen in alles wat met belastingen te maken heeft)*
+*een masteropleiding handelswetenschappen of toegepaste economische wetenschappen (via een schakelprogramma)*
+*via een verkort traject een tweede diploma bedrijfsmanagement of vastgoed als je interesse hebt in immobiliën.*
